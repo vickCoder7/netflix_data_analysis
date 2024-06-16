@@ -4,7 +4,7 @@ We perform an EDA on netflix data retrieved from Kaggle
 **Executive Summary**
 This project presents an anlysis on Netflix data to understand the how the content has been added to the platform across time and space. We start by collecting the data, cleaning it and analyze it by performing an exploratory data analysis (EDA).
 
-### **Introduction**
+>### **Introduction**
 **Background**
 
 Netflix is an American subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages. It's been founded on August 29, 1997 by Reed Hastings and Marc Randolph and has its quarter in Los Gatos, California, United States.
