@@ -2,6 +2,7 @@
 We perform an EDA on netflix data retrieved from Kaggle
 
 **Executive Summary**
+
 This project presents an anlysis on Netflix data to understand the how the content has been added to the platform across time and space. We start by collecting the data, cleaning it and analyze it by performing an exploratory data analysis (EDA).
 
 >### **Introduction**
